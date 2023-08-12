@@ -1,0 +1,54 @@
+# Dependências geradas
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de build
+/build
+/dist
+/out
+
+# Arquivos de ambiente
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de lock de pacote
+package-lock.json
+yarn.lock
+
+# Arquivos de cache de desenvolvimento
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.log
+*.tmp
+*.pid
+*.swp
+
+# Arquivos de configuração IDE/Editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de histórico de comandos shell
+.history
+
+# Arquivos de backup
+*~
+*.bak
+*.backup
+*.old
+
+# Arquivos de configuração de editor/IDE específicos
+*.iml
+*.ipr
+*.iws
+*.editorconfig
+*.eslintrc
+*.jshintrc
+*.jscsrc
